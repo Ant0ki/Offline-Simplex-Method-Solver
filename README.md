@@ -34,6 +34,9 @@ Designed for students, educators, and operations research practitioners, this ap
 
 ### Building from Source
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Ant0ki/Offline-Simplex-Method-Solver.git
+1. Download the "SimplerApp.zip" file
+2. Extract it anyware.
+3. Using AndroidStudio, Build the app, (you can also add different HTML files if you want to.
+
+## Downloading APK
+ You can download it on "release"
