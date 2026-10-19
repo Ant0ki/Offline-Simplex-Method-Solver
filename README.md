@@ -1,6 +1,6 @@
-# 📊 Simplex Method Solver for Android
+# 📊 Offline Simplex Method Solver for Android
 
-An open-source, lightweight, offline-first Android application to solve **Linear Programming (LP)** problems using the **Simplex Method** and **Two-Phase Simplex Method**.
+An open-source, lightweight, offline-first Android application designed to solve **Linear Programming (LP)** problems using the **Simplex Method** and **Two-Phase Simplex Method**.
 
 Designed for students, educators, and operations research practitioners, this app provides detailed step-by-step tableau calculations, exact fraction conversions, and interactive 2D graphical visualizations of the feasible region.
 
@@ -36,4 +36,4 @@ Designed for students, educators, and operations research practitioners, this ap
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/simplex-solver.git
+   git clone https://github.com/Ant0ki/Offline-Simplex-Method-Solver.git
