@@ -34,7 +34,7 @@ Designed for students, educators, and operations research practitioners, this ap
 
 ### Building from Source
 
-1. Download the "SimplerApp.zip" file
+1. Download the "SimplexApp.zip" file
 2. Extract it anyware.
 3. Using AndroidStudio, Build the app, (you can also add different HTML files if you want to.
 
